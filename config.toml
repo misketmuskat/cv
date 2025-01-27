@@ -10,8 +10,8 @@ defaultContentLanguage = 'en'
     weight = 1
     [languages.en.params]
       datasource = 'content.en'
-  [languages.pt]
+  [languages.de]
     languageName = "Deutsch"
     weight = 2
-    [languages.pt.params]
-      datasource = 'content.pt'
+    [languages.de.params]
+      datasource = 'content.de'

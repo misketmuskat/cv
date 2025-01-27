@@ -1,14 +1,14 @@
-name: Diogo Torres Correia
+name: Berkant Gültekin
 tagline: Programming Enthusiast. Computer Science & Cybersecurity Student. Federated Athlete.
 
 sidebar:
   contact:
-    email: me@diogotc.com
-    # phone: "+351 912 345 678"
-    location: "Stockholm, Sweden"
-    website: diogotc.com
-    github: diogotcorreia
-    linkedin: diogotcorreia
+    email: berkantgultekin@tutanota.com
+    # phone: "+1551 0603 753"
+    location: "Darmstadt, Hesse, DE"
+    website: berkantgultekin.com
+    github: misketmuskat
+    linkedin: berkantgultekin
   skills:
     - title: Programming
       entry:
@@ -56,10 +56,12 @@ sidebar:
           rating: 3
     - title: Languages
       entry:
-        - name: Portuguese
+        - name: Turkish
           value: Native
         - name: English
           value: C1 (IELTS Band 8.0)
+        - name: German
+          value: B1
   opensource:
     title: "Contributions in the following projects:"
     contributions:
@@ -97,34 +99,48 @@ sidebar:
 
 sections:
   education:
-    - name: "Bachelor's in Computer Science and Engineering (LEIC-A)"
-      location: "Técnico Lisboa, Portugal"
+    - name: "M.A. in Data and Discourse Studies"
+      location: "TU Darmstadt, Germany"
       date: "2020 - 2023"
       description: |-
-        - Final average: 18.63/20 (19)
-        - Elected Year Delegate (2020 - 2023) and Degree Delegate (2022 - 2023)
-        - Awarded [Academic Excellence Diploma (2020/2021)](/documents/academic_excellence_2020_2021_en.pdf)
-        - Awarded [Academic Merit Diploma (2021/2022)](/documents/academic_merit_2021_2022_en.pdf)
-        - Awarded [Academic Excellence Diploma (2022/2023)](/documents/academic_excellence_2022_2023_en.pdf)
-        - Top 3 amongst students who enrolled in LEIC-A in 2020/2021 (out of ~180)
-        - Member of the University's Pedagogic Council
-    - name: "Master's in Cybersecurity"
-      location: "KTH Royal Institute of Technology, Sweden"
-      date: "2023 - 2025 _(expected)_"
-      description: ""
+        - Communication, discourse analysis, language as data.
+
+    - name: "B.A in Political Science and International Relations"
+      location: "Boğaziçi University, Turkey"
+      date: "Sep 2013 - Aug 2020"
+      description: |-
+        - Political science, political theory, international relations, nationalism,
+        - Sociology, anthropology, power and inequality, social memory
+        - Affect theory and emotional analysis of texts
   jobs:
     - name: |-
-        Research Initiation Grant  
-        _Full Stack Developer_
+        Misa Consultancy  
+        _Editor & Content Creator_
       location: "DASI, IST, Lisboa"
-      date: "April 2021 - July 2023"
+      date: "Jul 2023 - Feb 2024"
       description: |-
-        DASI is Técnico Lisboa's IT Services' Development Team, which I
-        joined during my first year at the university. It is responsible for
-        developing and managing the school's learning management system, FenixEdu,
-        and other services.  
-        I developed a new version of the public API, as well as various bug fixes
-        and UX improvements, some of which were my initiative.
+        - Supported the structuring of podcast episodes, seminars, and public talks. 
+        - Arranged meetings, communicated with the business partners, 
+        and organized media appearances. 
+        - Worked closely with Pınar Sabancı, a prominent figure in psychology and media, 
+        providing editorial support for various projects. 
+
+    - name: |-
+        Podbee Media  
+        _Editor-in-Chief & Producer_
+      location: "DASI, IST, Lisboa"
+      date: "Jul 2023 - Feb 2024"
+      description: |-
+        - Led the editorial work for the ‘Barış Özcan ile 111 Hz’ podcast, which won 
+        The Best Technology Podcast Award, creating engaging stories around science, technology, and art.
+        - Managed production and content for ‘Trend Topic’  and ‘Trend Ekonomi’ 
+        with journalist Ozan Gündoğdu. ‘Trend Topic’ explored political and social events 
+        in an analytical and engaging way, while ‘Trend Ekonomi’ simplified complex economic concepts 
+        for a wider audience.
+        - Developed and presented project proposals and marketing ideas to major brands, 
+        helping to align content strategies with their goals and audience needs.
+        - Helped establish Podbee Media as one of Turkey’s leading podcast networks, contributing to its growth as one of its first employees.
+
   projects:
     - name: Resumos LEIC
       date: "2021 - Present"
