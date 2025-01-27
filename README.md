@@ -1,5 +1,7 @@
 # Curriculum Vitae - Berkant Gültekin
 
+https://cv.berkantgultekin.com/ adresinde bulunan Özgeçmişin kaynak kodlarının bulunduğu sayfa.
+
 Why HTML? Because it can be easily [shared on the web](https://cv.diogotc.com)
 
 ![CV Preview](.github/preview.png)
