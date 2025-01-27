@@ -1,4 +1,4 @@
-# Curriculum Vitae - Diogo Correia
+# Curriculum Vitae - Berkant Gültekin
 
 Why HTML? Because it can be easily [shared on the web](https://cv.diogotc.com)
 
