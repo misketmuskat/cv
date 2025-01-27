@@ -1,6 +1,6 @@
-baseURL = 'https://cv.diogotc.com'
+baseURL = 'https://cv.berkantgultekin.com'
 languageCode = 'en-us'
-title = 'CV | Diogo Correia'
+title = 'CV | Berkant Gültekin'
 disableKinds = ["taxonomy", "term"]
 
 defaultContentLanguage = 'en'
@@ -11,7 +11,7 @@ defaultContentLanguage = 'en'
     [languages.en.params]
       datasource = 'content.en'
   [languages.pt]
-    languageName = "Portuguese"
+    languageName = "Deutsch"
     weight = 2
     [languages.pt.params]
       datasource = 'content.pt'
