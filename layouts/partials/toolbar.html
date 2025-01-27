@@ -27,15 +27,12 @@
         <i class="fa-solid fa-language"></i>
         {{ if eq $.Site.Language.Lang "de" }}
           in English
-        {{ else if eq $.Site.Language.Lang "en" }}
-          auf Deutsch
         {{ else }}
-          in {{ .Language.LanguageName }}
+          auf Deutsch
         {{ end }}
       </a>
     {{ end }}
   {{ end }}
-
   <div style="flex-grow: 1;"></div>
   <a
     href="https://github.com/diogotcorreia/cv"
