@@ -1,10 +1,11 @@
 name: Berkant Gültekin
-tagline: Programador e entusiasta. Estudante de Engenharia Informática & Cibersegurança. Atleta federado.
+tagline: "Master-Student im Bereich Data & Discourse mit einem Hintergrund in Politikwissenschaft. 
+Schriftsteller. Redakteur. Produzent. Sehr erfahren in Podcasts und neuen Medien."
 
 sidebar:
   contact:
     email: berkantgultekin@tutanota.com
-    # phone: "+351 912 345 678"
+    # phone: "+1551 0603 753"
     location: "Darmstadt, Hesse, DE"
     website: berkantgultekin.com
     github: misketmuskat
@@ -101,7 +102,7 @@ sections:
   education:
     - name: "M.A. in Data and Discourse Studies"
       location: "TU Darmstadt, Deutschland"
-      date: "2020 - 2023"
+      date: "Oct 2024 - aktuell"
       description: |-
         - Kommunikation, Diskursanalyse, Sprache als Daten.
 
@@ -116,7 +117,7 @@ sections:
   - name: |-
       Misa Consultancy  
       _Redakteur & Content Creator_
-    location: "DASI, IST, Lisboa"
+    location: "İstanbul, Türkei"
     date: "Jul 2023 - Feb 2024"
     description: |-
       - Unterstützung bei der Strukturierung von Podcast-Episoden, Seminaren und öffentlichen Vorträgen.
@@ -127,8 +128,8 @@ sections:
   - name: |-
       Podbee Media  
       _Chefredakteur & Produzent_
-    location: "DASI, IST, Lisboa"
-    date: "Jul 2023 - Feb 2024"
+    location: "İstanbul, Türkei"
+    date: "Mai 2021 - Mai 2023"
     description: |-
       - Leitung der redaktionellen Arbeit für den Podcast ‘Barış Özcan ile 111 Hz’, der den 
         Best Technology Podcast Award gewann, mit dem Ziel, fesselnde Geschichten über Wissenschaft, Technologie und Kunst zu erzählen.

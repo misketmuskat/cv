@@ -1,5 +1,6 @@
 name: Berkant Gültekin
-tagline: Programming Enthusiast. Computer Science & Cybersecurity Student. Federated Athlete.
+tagline: "Data & Discourse Master's student with Political Science background. 
+Writer. Editor. Producer. Highly experienced in podcasts and new media."
 
 sidebar:
   contact:
@@ -101,7 +102,7 @@ sections:
   education:
     - name: "M.A. in Data and Discourse Studies"
       location: "TU Darmstadt, Germany"
-      date: "2020 - 2023"
+      date: "Oct 2024 - present"
       description: |-
         - Communication, discourse analysis, language as data.
 
@@ -116,7 +117,7 @@ sections:
     - name: |-
         Misa Consultancy  
         _Editor & Content Creator_
-      location: "DASI, IST, Lisboa"
+      location: "İstanbul, Türkiye"
       date: "Jul 2023 - Feb 2024"
       description: |-
         - Supported the structuring of podcast episodes, seminars, and public talks. 
@@ -124,12 +125,11 @@ sections:
         and organized media appearances. 
         - Worked closely with Pınar Sabancı, a prominent figure in psychology and media, 
         providing editorial support for various projects. 
-
     - name: |-
         Podbee Media  
         _Editor-in-Chief & Producer_
-      location: "DASI, IST, Lisboa"
-      date: "Jul 2023 - Feb 2024"
+      location: "İstanbul, Türkiye"
+      date: "May 2021 - May 2023"
       description: |-
         - Led the editorial work for the ‘Barış Özcan ile 111 Hz’ podcast, which won 
         The Best Technology Podcast Award, creating engaging stories around science, technology, and art.
@@ -139,7 +139,8 @@ sections:
         for a wider audience.
         - Developed and presented project proposals and marketing ideas to major brands, 
         helping to align content strategies with their goals and audience needs.
-        - Helped establish Podbee Media as one of Turkey’s leading podcast networks, contributing to its growth as one of its first employees.
+        - Helped establish Podbee Media as one of Turkey’s leading podcast networks, 
+        contributing to its growth as one of its first employees.
 
   projects:
     - name: Resumos LEIC
