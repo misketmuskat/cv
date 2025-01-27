@@ -20,16 +20,14 @@
     <span class="hide-light">
       <i class="fa-solid fa-moon"></i>
     </span>
+    Toggle theme
   </button>
   {{ range $.Site.Home.AllTranslations }}
     {{ if ne $.Site.Language.Lang .Language.Lang }}
       <a href="{{ .Permalink }}">
         <i class="fa-solid fa-language"></i>
-        {{ if eq $.Site.Language.Lang "de" }}
-          in English
-        {{ else }}
-          auf Deutsch
-        {{ end }}
+        View in
+        {{ .Language.LanguageName }}
       </a>
     {{ end }}
   {{ end }}
