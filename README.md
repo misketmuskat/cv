@@ -1,4 +1,4 @@
-# https://cv.berkantgultekin.com — Curriculum Vitae
+## cv.berkantgultekin.com — Curriculum Vitae
 
 Github Pages üzerinde barındırdığım özgeçmişin kaynak dosyaları.
 
