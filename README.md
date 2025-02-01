@@ -1,5 +1,9 @@
-# Curriculum Vitae - Berkant Gültekin
+# https://cv.berkantgultekin.com — Curriculum Vitae
 
-https://cv.berkantgultekin.com/ adresinde bulunan Özgeçmişin kaynak kodlarının bulunduğu sayfa.
+Github Pages üzerinde barındırdığım özgeçmişin kaynak dosyaları.
 
-Ana repository linki ise şurada: https://github.com/diogotcorreia/cv 
+Statik Site Altyapısı: [Hugo](https://gohugo.io/)
+Kullanılan Tema:  [Diogo Correia | CV](https://github.com/diogotcorreia/cv )
+
+---
+berkant gültekin | 2025
