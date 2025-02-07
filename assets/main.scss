@@ -9,14 +9,14 @@ $bodyBgColorLight: #fff;
 $bodyTextColorLight: #000;
 
 $backgroundDark: #1b1b1b;
-$accentColorDark: #98bed5;
-$headerBgColorDark: #0b3948;
-$headerTextColorDark: #eceff4;
-$sidebarBgColorDark: #232b2e;
-$sidebarTextColorDark: #eceff4;
+$accentColorDark: #B57614;
+$headerBgColorDark: #514b3c;
+$headerTextColorDark: #EBDBB2;
+$sidebarBgColorDark: #282828;
+$sidebarTextColorDark: #EBDBB2;
 $sidebarSkillsBgColorDark: #303c40;
 $bodyBgColorDark: #1b1b1b;
-$bodyTextColorDark: #eceff4;
+$bodyTextColorDark: #EBDBB2;
 
 @mixin breakpoint-sm {
   @media only screen and (max-width: 649px) {
