@@ -134,38 +134,36 @@ sections:
 
   projects:
     - name: Barış Özcan ile 111 Hz
-      date: "2016 - Present"
+      date: "2021 - 2023"
       link: https://open.spotify.com/show/5NbxzMRbuun0SIOh7GKMbk
       techstack:
         icon: "fa-solid fa-podcast"
-        name: "Science, Technology, Art"
+        name: "Podcast: Science, Technology"
       description: >-
-        A Minecraft plugin that intercepts network packets in search of placeholders,
-        replacing them with translated messages in the player's language.
-        The project, which is written in Java, has more than 100 classes and
-        7000+ lines of code.
+        A thought-provoking podcast exploring the intersection of science, technology,
+        and philosophy. I contributed to content research and development,
+        editorial planning, audience engagement strategies alongside one of Turkey’s
+        most influential digital storytellers.
     - name: Trend Topic
-      date: "2019 - Present"
+      date: "2021 - 2023"
       link: https://open.spotify.com/show/7fryGzY77QapwhSlg3JVOl
       techstack:
         icon: "fa-solid fa-podcast"
-        name: "Politics, News"
+        name: "Podcast: Politics, News"
       description: >-
-        A web app to configure the Triton plugin. Made with React, Redux
-        and React Router, it allows for easily configuring the plugin, avoiding
-        the need to manually editing JSON configuration files.
+        A weekly current affairs podcast with journalist Ozan Gündoğdu analyzing Turkish
+        and global political developments. I was responsible for research, and editorial
+        coordination to ensure timely, accurate, and balanced discussions.
     - name: Psikopatika
       date: "2023 - 2024"
       link: https://open.spotify.com/show/3KpBHmhPaOCbFwdTShKL4F
       techstack:
         icon: "fa-solid fa-podcast"
-        name: "Psychology, Welness"
+        name: "Podcast: Psychology, Wellness"
       description: >-
-        A completely open source website, dedicated to the creation of
-        class notes focused on the courses in the curriculum of the BSc
-        in Computer Science and Engineering at Técnico Lisboa, improving
-        the academic performance of students.
-        Currently, it achieves more than 30k monthly views across all pages.
+        A psychology and mental wellness podcast addressing topics from cognitive science
+        to everyday emotional wellbeing. Assisted in concept creation, content editing,
+        and audience growth through platform-specific optimization.
 
   extracurriculars:
     - name: Advent of Code Participant
