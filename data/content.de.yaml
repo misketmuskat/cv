@@ -14,7 +14,7 @@ sidebar:
   skills:
     - title: Fähigkeiten
       entry:
-        - name: Kommunikationsfähigkeit
+        - name: Kommunikation
           rating: 5
         - name: Kreatives Schreiben
           rating: 5
@@ -28,7 +28,7 @@ sidebar:
           rating: 4
         - name: Projektpräsentation
           rating: 4
-        - name: Entwicklung von Marketingideen
+        - name: Marketingentwicklung
           rating: 4
         - name: Markenstrategie
           rating: 4
@@ -117,7 +117,8 @@ sections:
         um Content-Strategien mit ihren Zielen und Bedürfnissen des Publikums in Einklang zu bringen.
       - Mitwirkung an der Etablierung von Podbee Media als eines der führenden Podcast-Netzwerke in der Türkei 
         und Beitrag zu seinem Wachstum als eines der ersten Mitarbeiter.
-  projects:
+
+projects:
     - name: Barış Özcan ile 111 Hz
       date: "2021 - 2023"
       link: https://open.spotify.com/show/5NbxzMRbuun0SIOh7GKMbk
