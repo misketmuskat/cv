@@ -96,11 +96,12 @@ sections:
     location: "İstanbul, Türkei"
     date: "Jul 2023 - Feb 2024"
     description: |-
-      - Unterstützung bei der Strukturierung von Podcast-Episoden, Seminaren und öffentlichen Vorträgen.
-      - Organisation von Treffen, Kommunikation mit Geschäftspartnern und Organisation von Medienauftritten.
+      - Unterstützung bei der Strukturierung von Podcast-Episoden, Seminaren und öffentliche
+      Vorträgen.
+      - Organisation von Treffen, Kommunikation mit Geschäftspartnern und Organisation von
+      Medienauftritten.
       - Enge Zusammenarbeit mit Pınar Sabancı, einer prominenten Figur in Psychologie und Medien, 
         mit redaktioneller Unterstützung bei verschiedenen Projekten.
-
   - name: |-
       Podbee Media  
       _Chefredakteur & Produzent_
@@ -108,15 +109,17 @@ sections:
     date: "Mai 2021 - Mai 2023"
     description: |-
       - Leitung der redaktionellen Arbeit für den Podcast ‘Barış Özcan ile 111 Hz’, der den 
-        Best Technology Podcast Award gewann, mit dem Ziel, fesselnde Geschichten über Wissenschaft, Technologie und Kunst zu erzählen.
+        Best Technology Podcast Award gewann, mit dem Ziel, fesselnde Geschichten über
+        Wissenschaft, Technologie und Kunst zu erzählen.
       - Leitung der Produktion und des Inhalts für ‘Trend Topic’ und ‘Trend Ekonomi’ 
-        zusammen mit dem Journalisten Ozan Gündoğdu. ‘Trend Topic’ behandelte politische und soziale Ereignisse 
-        auf analytische und ansprechende Weise, während ‘Trend Ekonomi’ komplexe wirtschaftliche Konzepte 
-        für ein breiteres Publikum vereinfachte.
+        zusammen mit dem Journalisten Ozan Gündoğdu. ‘Trend Topic’ behandelte politische und
+        soziale Ereignisse auf analytische und ansprechende Weise, während ‘Trend Ekonomi’
+        komplexe wirtschaftliche Konzepte für ein breiteres Publikum vereinfachte.
       - Entwicklung und Präsentation von Projektvorschlägen und Marketingideen an große Marken, 
-        um Content-Strategien mit ihren Zielen und Bedürfnissen des Publikums in Einklang zu bringen.
-      - Mitwirkung an der Etablierung von Podbee Media als eines der führenden Podcast-Netzwerke in der Türkei 
-        und Beitrag zu seinem Wachstum als eines der ersten Mitarbeiter.
+        um Content-Strategien mit ihren Zielen und Bedürfnissen des Publikums in Einklang zu
+        bringen.
+      - Mitwirkung an der Etablierung von Podbee Media als eines der führenden Podcast-Netzwerke
+      in der Türkei und Beitrag zu seinem Wachstum als eines der ersten Mitarbeiter.
 
 projects:
     - name: Barış Özcan ile 111 Hz
@@ -130,7 +133,6 @@ projects:
         und Philosophie. Ich war an der inhaltlichen Recherche und Entwicklung, der redaktionellen
         Planung sowie der Entwicklung von Strategien zur Zielgruppenansprache beteiligt, zusammen
         mit einem der einflussreichsten digitalen Erzähler der Türkei.
-
     - name: Trend Topic
       date: "2021 - 2023"
       link: https://open.spotify.com/show/7fryGzY77QapwhSlg3JVOl
@@ -142,7 +144,6 @@ projects:
         der türkische und globale politische Entwicklungen analysiert. Ich war verantwortlich
         für Recherche und redaktionelle Koordination, um rechtzeitige, genaue und ausgewogene
         Diskussionen sicherzustellen.
-
     - name: Psikopatika
       date: "2023 - 2024"
       link: https://open.spotify.com/show/3KpBHmhPaOCbFwdTShKL4F
@@ -159,7 +160,6 @@ projects:
     - name: 2015-2016 | Freiwilliger, Boğaziçi University Albert Long Hall Konzerte
       # link: https://github.com/diogotcorreia/advent-of-code
       icon: "fa-solid fa-hand"
-
     - name: 2018-2019 | Koordinator der Filmschule, Kent Enstitüleri (NGO)
       # link: https://github.com/diogotcorreia/advent-of-code
       icon: "fa-solid fa-hand"
