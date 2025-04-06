@@ -92,7 +92,10 @@ sidebar:
       - name: automatic-timezoned
         link: https://github.com/maxbrunet/automatic-timezoned/pulls?q=author%3Adiogotcorreia
         description: "New Features"
-  misc: [hello]
+  misc: 
+      - name: Nixpkgs
+        link: https://github.com/NixOS/nixpkgs/pulls?q=author%3Adiogotcorreia
+        description: "Packaging, Bug Fixes, and more"
 
 sections:
   education:
