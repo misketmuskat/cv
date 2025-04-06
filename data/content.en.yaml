@@ -157,7 +157,7 @@ sections:
   extracurriculars:
     - name: 2015-2016 | Volunteer, Boğaziçi University Albert Long Hall Concerts
       # link: https://github.com/diogotcorreia/advent-of-code
-      icon: "fa-solid fa-sleigh"
+      icon: "fa-solid fa-hand"
     - name: 2018-2019 | Coordinator of Film School, Kent Enstitüleri (NGO)
       # link: https://github.com/diogotcorreia/advent-of-code
-      icon: "fa-solid fa-sleigh"
+      icon: "fa-solid fa-hand"
