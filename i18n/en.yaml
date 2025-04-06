@@ -7,5 +7,5 @@ section-header:
   work: Professional Experience
   projects: Projects
   extra-curriculars: Extra Curriculars
-projects:
-  footer-message: "... and many other small projects"
+# projects:
+#  footer-message: "... and many other small projects"
