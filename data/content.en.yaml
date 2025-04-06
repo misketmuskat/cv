@@ -62,40 +62,20 @@ sidebar:
           value: C1 (IELTS Band 8.0)
         - name: German
           value: B1
-  opensource:
-    title: "Things that I enjoy in my personal life:"
-    contributions:
-      - name: Nixpkgs
-        link: https://github.com/NixOS/nixpkgs/pulls?q=author%3Adiogotcorreia
-        description: "Packaging, Bug Fixes, and more"
-      - name: STAYAWAY COVID
-        link: https://github.com/stayawayinesctec/stayaway-app/pulls?q=author%3Adiogotcorreia
-        description: "Dark Mode"
-      - name: Vuepress
-        link: https://github.com/vuejs/vuepress/pulls?q=author%3Adiogotcorreia
-        description: "Bug Fixes"
-      - name: Listmonk
-        link: https://github.com/knadh/listmonk/issues?q=author%3Adiogotcorreia
-        description: "Translations"
-      - name: Umami
-        link: https://github.com/mikecao/umami/pulls?q=author%3Adiogotcorreia
-        description: "Translations"
-      - name: phhusson's vendor_hardware_overlay
-        link: https://github.com/phhusson/vendor_hardware_overlay/pulls?q=author%3Adiogotcorreia
-        description: "Android Device Overlay"
-      - name: Firefly-III
-        link: https://github.com/firefly-iii/data-importer/pulls?q=author%3Adiogotcorreia
-        description: "Bug Fixes"
-      - name: BungeeCord
-        link: https://github.com/SpigotMC/BungeeCord/pulls?q=author%3Adiogotcorreia
-        description: "Bug Fixes"
-      - name: automatic-timezoned
-        link: https://github.com/maxbrunet/automatic-timezoned/pulls?q=author%3Adiogotcorreia
-        description: "New Features"
+#  opensource:
+#    title: "Things that I enjoy in my personal life:"
+#    contributions:
+#      - name: Nixpkgs
+#        link: https://github.com/NixOS/nixpkgs/pulls?q=author%3Adiogotcorreia
+#        description: "Packaging, Bug Fixes, and more"
+
   misc: 
-      - name: Nixpkgs
-        link: https://github.com/NixOS/nixpkgs/pulls?q=author%3Adiogotcorreia
-        description: "Packaging, Bug Fixes, and more"
+      - name: Choir Singing — Chor der TU
+#        link: https://github.com/NixOS/nixpkgs/pulls?q=author%3Adiogotcorreia
+      - name: Bass Guitar
+#        link: https://github.com/NixOS/nixpkgs/pulls?q=author%3Adiogotcorreia
+      - name: Photography
+#        link: https://github.com/NixOS/nixpkgs/pulls?q=author%3Adiogotcorreia
 
 sections:
   education:
