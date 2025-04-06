@@ -32,7 +32,7 @@ sidebar:
     - title: Tools
       entry:
         - name: Git
-          rating: 5
+          rating: 3
         - name: Docker
           rating: 3
     - title: Operating Systems
@@ -151,7 +151,7 @@ sections:
         icon: "fa-solid fa-podcast"
         name: "Podcast: Politics, News"
       description: >-
-        A weekly current affairs podcast with journalist Ozan Gündoğdu analyzing Turkish
+        A weekly current affairs podcast with the journalist Ozan Gündoğdu analyzing Turkish
         and global political developments. I was responsible for research, and editorial
         coordination to ensure timely, accurate, and balanced discussions.
     - name: Psikopatika
@@ -166,6 +166,16 @@ sections:
         and audience growth through platform-specific optimization.
 
   extracurriculars:
-    - name: Advent of Code Participant
-      link: https://github.com/diogotcorreia/advent-of-code
+    - name: Volunteer, Boğaziçi University Albert Long Hall Concerts
+      date: "2015 - 2016"
+      # link: https://github.com/diogotcorreia/advent-of-code
       icon: "fa-solid fa-sleigh"
+      description: >-
+        Assisted in event organization and audience coordination.
+    - name: Coordinator, Kent Enstitüleri (NGO)
+      date: "2018 - 2019"
+      # link: https://github.com/diogotcorreia/advent-of-code
+      icon: "fa-solid fa-sleigh"
+      description: >-
+        Coordinated a filming workshop covering screenwriting, directing, and film analysis.
+        Organized initiatives aimed at educating citizens in Turkey about election security.
