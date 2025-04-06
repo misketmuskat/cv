@@ -16,12 +16,14 @@ sidebar:
         - name: Communication Skills
           rating: 5
         - name: Creative Writing
-          rating: 51
+          rating: 5
+        - name: Content Editing
+          rating: 5
         - name: Podcasting
           rating: 4
         - name: Analytical Skills
           rating: 4
-        - name: Ability to Work in a Team
+        - name: Work in a Team
           rating: 4
         - name: Project Pitching
           rating: 4
@@ -29,8 +31,17 @@ sidebar:
           rating: 4
         - name: Brand Strategy
           rating: 4
+        - name: Photography
+          rating: 3
+        
     - title: Tools
       entry:
+        - name: Notion
+          rating: 4
+        - name: Audacity
+          rating: 4
+        - name: Python
+          rating: 3
         - name: Git
           rating: 3
         - name: Docker
@@ -52,11 +63,8 @@ sidebar:
         - name: German
           value: B1
   opensource:
-    title: "Contributions in the following projects:"
+    title: "Things that I enjoy in my personal life:"
     contributions:
-      - name: Strapi
-        link: https://github.com/strapi/strapi/pulls?q=author%3Adiogotcorreia
-        description: "Small Enhancements, Bug Fixes, Security Vulnerability Patching, Translations"
       - name: Nixpkgs
         link: https://github.com/NixOS/nixpkgs/pulls?q=author%3Adiogotcorreia
         description: "Packaging, Bug Fixes, and more"
@@ -84,7 +92,7 @@ sidebar:
       - name: automatic-timezoned
         link: https://github.com/maxbrunet/automatic-timezoned/pulls?q=author%3Adiogotcorreia
         description: "New Features"
-  misc: []
+  misc: [hello]
 
 sections:
   education:
@@ -166,16 +174,9 @@ sections:
         and audience growth through platform-specific optimization.
 
   extracurriculars:
-    - name: Volunteer, Boğaziçi University Albert Long Hall Concerts
-      date: "2015 - 2016"
+    - name: 2015-2016: Volunteer, Boğaziçi University Albert Long Hall Concerts
       # link: https://github.com/diogotcorreia/advent-of-code
       icon: "fa-solid fa-sleigh"
-      description: >-
-        Assisted in event organization and audience coordination.
-    - name: Coordinator, Kent Enstitüleri (NGO)
-      date: "2018 - 2019"
+    - name: 2018-2019: Coordinator of Film School, Kent Enstitüleri (NGO)
       # link: https://github.com/diogotcorreia/advent-of-code
       icon: "fa-solid fa-sleigh"
-      description: >-
-        Coordinated a filming workshop covering screenwriting, directing, and film analysis.
-        Organized initiatives aimed at educating citizens in Turkey about election security.
