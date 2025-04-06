@@ -127,7 +127,7 @@ sections:
       link: https://open.spotify.com/show/5NbxzMRbuun0SIOh7GKMbk
       techstack:
         icon: "fa-solid fa-podcast"
-        name: "Podcast: Science, Technology"
+        name: "Science, Technology"
       description: >-
         A thought-provoking podcast exploring the intersection of science, technology,
         and philosophy. I contributed to content research and development,
@@ -138,7 +138,7 @@ sections:
       link: https://open.spotify.com/show/7fryGzY77QapwhSlg3JVOl
       techstack:
         icon: "fa-solid fa-podcast"
-        name: "Podcast: Politics, News"
+        name: "Politics, News"
       description: >-
         A weekly current affairs podcast with the journalist Ozan Gündoğdu analyzing Turkish
         and global political developments. I was responsible for research, and editorial
@@ -148,7 +148,7 @@ sections:
       link: https://open.spotify.com/show/3KpBHmhPaOCbFwdTShKL4F
       techstack:
         icon: "fa-solid fa-podcast"
-        name: "Podcast: Psychology, Wellness"
+        name: "Psychology, Wellness"
       description: >-
         A psychology and mental wellness podcast addressing topics from cognitive science
         to everyday emotional wellbeing. Assisted in concept creation, content editing,
