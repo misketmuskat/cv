@@ -117,48 +117,48 @@ sections:
         um Content-Strategien mit ihren Zielen und Bedürfnissen des Publikums in Einklang zu bringen.
       - Mitwirkung an der Etablierung von Podbee Media als eines der führenden Podcast-Netzwerke in der Türkei 
         und Beitrag zu seinem Wachstum als eines der ersten Mitarbeiter.
-projects:
-  - name: Barış Özcan ile 111 Hz
-    date: "2021 - 2023"
-    link: https://open.spotify.com/show/5NbxzMRbuun0SIOh7GKMbk
-    techstack:
-      icon: "fa-solid fa-podcast"
-      name: "Podcast: Wissenschaft, Technologie"
-    description: >-
-      Ein zum Nachdenken anregender Podcast über die Schnittstelle von Wissenschaft, Technologie
-      und Philosophie. Ich war an der inhaltlichen Recherche und Entwicklung, der redaktionellen
-      Planung sowie der Entwicklung von Strategien zur Zielgruppenansprache beteiligt, zusammen
-      mit einem der einflussreichsten digitalen Erzähler der Türkei.
+    projects:
+      - name: Barış Özcan ile 111 Hz
+        date: "2021 - 2023"
+        link: https://open.spotify.com/show/5NbxzMRbuun0SIOh7GKMbk
+        techstack:
+          icon: "fa-solid fa-podcast"
+          name: "Podcast: Wissenschaft, Technologie"
+        description: >-
+          Ein zum Nachdenken anregender Podcast über die Schnittstelle von Wissenschaft, Technologie
+          und Philosophie. Ich war an der inhaltlichen Recherche und Entwicklung, der redaktionellen
+          Planung sowie der Entwicklung von Strategien zur Zielgruppenansprache beteiligt, zusammen
+          mit einem der einflussreichsten digitalen Erzähler der Türkei.
 
-  - name: Trend Topic
-    date: "2021 - 2023"
-    link: https://open.spotify.com/show/7fryGzY77QapwhSlg3JVOl
-    techstack:
-      icon: "fa-solid fa-podcast"
-      name: "Podcast: Politik, Nachrichten"
-    description: >-
-      Ein wöchentlicher Podcast über aktuelle Ereignisse mit dem Journalisten Ozan Gündoğdu,
-      der türkische und globale politische Entwicklungen analysiert. Ich war verantwortlich
-      für Recherche und redaktionelle Koordination, um rechtzeitige, genaue und ausgewogene
-      Diskussionen sicherzustellen.
+      - name: Trend Topic
+        date: "2021 - 2023"
+        link: https://open.spotify.com/show/7fryGzY77QapwhSlg3JVOl
+        techstack:
+          icon: "fa-solid fa-podcast"
+          name: "Podcast: Politik, Nachrichten"
+        description: >-
+          Ein wöchentlicher Podcast über aktuelle Ereignisse mit dem Journalisten Ozan Gündoğdu,
+          der türkische und globale politische Entwicklungen analysiert. Ich war verantwortlich
+          für Recherche und redaktionelle Koordination, um rechtzeitige, genaue und ausgewogene
+          Diskussionen sicherzustellen.
 
-  - name: Psikopatika
-    date: "2023 - 2024"
-    link: https://open.spotify.com/show/3KpBHmhPaOCbFwdTShKL4F
-    techstack:
-      icon: "fa-solid fa-podcast"
-      name: "Podcast: Psychologie, Wohlbefinden"
-    description: >-
-      Ein Podcast über Psychologie und mentales Wohlbefinden, der Themen von
-      Kognitionswissenschaft bis hin zu alltäglichem emotionalen Wohlbefinden behandelt.
-      Ich half bei der Konzeptentwicklung, der Inhaltserstellung und dem Wachstum der
-      Zuhörerschaft durch plattformspezifische Optimierung.
+      - name: Psikopatika
+        date: "2023 - 2024"
+        link: https://open.spotify.com/show/3KpBHmhPaOCbFwdTShKL4F
+        techstack:
+          icon: "fa-solid fa-podcast"
+          name: "Podcast: Psychologie, Wohlbefinden"
+        description: >-
+          Ein Podcast über Psychologie und mentales Wohlbefinden, der Themen von
+          Kognitionswissenschaft bis hin zu alltäglichem emotionalen Wohlbefinden behandelt.
+          Ich half bei der Konzeptentwicklung, der Inhaltserstellung und dem Wachstum der
+          Zuhörerschaft durch plattformspezifische Optimierung.
 
-extracurriculars:
-  - name: 2015-2016 | Freiwilliger, Boğaziçi University Albert Long Hall Konzerte
-    # link: https://github.com/diogotcorreia/advent-of-code
-    icon: "fa-solid fa-hand"
-  
-  - name: 2018-2019 | Koordinator der Filmschule, Kent Enstitüleri (NGO)
-    # link: https://github.com/diogotcorreia/advent-of-code
-    icon: "fa-solid fa-hand"
+    extracurriculars:
+      - name: 2015-2016 | Freiwilliger, Boğaziçi University Albert Long Hall Konzerte
+        # link: https://github.com/diogotcorreia/advent-of-code
+        icon: "fa-solid fa-hand"
+
+      - name: 2018-2019 | Koordinator der Filmschule, Kent Enstitüleri (NGO)
+        # link: https://github.com/diogotcorreia/advent-of-code
+        icon: "fa-solid fa-hand"
