@@ -64,20 +64,16 @@ sidebar:
           value: C1 (IELTS Band 8.0)
         - name: German
           value: B1
-#  opensource:
-#    title: "Things that I enjoy in my personal life:"
-#    contributions:
-#      - name: Nixpkgs
+  opensource:
+    title: "Things that I enjoy in my personal life:"
+    contributions:
+      - name: Choir Singing
 #        link: https://github.com/NixOS/nixpkgs/pulls?q=author%3Adiogotcorreia
-#        description: "Packaging, Bug Fixes, and more"
-
-  misc: 
-      - name: Choir Singing — Chor der TU
-#        link: https://github.com/NixOS/nixpkgs/pulls?q=author%3Adiogotcorreia
+        description: "Chor der TU, Rezonans, Boğaziçi Klasik Müzik Korosu"
       - name: Bass Guitar
-#        link: https://github.com/NixOS/nixpkgs/pulls?q=author%3Adiogotcorreia
       - name: Photography
-#        link: https://github.com/NixOS/nixpkgs/pulls?q=author%3Adiogotcorreia
+
+  misc: []
 
 sections:
   education:
