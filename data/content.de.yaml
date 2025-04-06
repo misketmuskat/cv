@@ -127,7 +127,7 @@ sections:
         link: https://open.spotify.com/show/5NbxzMRbuun0SIOh7GKMbk
         techstack:
           icon: "fa-solid fa-podcast"
-          name: "Podcast: Wissenschaft, Technologie"
+          name: "Wissenschaft, Technologie"
         description: >-
           Ein zum Nachdenken anregender Podcast über die Schnittstelle von Wissenschaft, 
           Technologie und Philosophie. Ich war an der inhaltlichen Recherche und Entwicklung,
@@ -138,7 +138,7 @@ sections:
         link: https://open.spotify.com/show/7fryGzY77QapwhSlg3JVOl
         techstack:
           icon: "fa-solid fa-podcast"
-          name: "Podcast: Politik, Nachrichten"
+          name: "Politik, Nachrichten"
         description: >-
           Ein wöchentlicher Podcast über aktuelle Ereignisse mit dem Journalisten Ozan Gündoğdu,
           der türkische und globale politische Entwicklungen analysiert. Ich war verantwortlich
@@ -149,7 +149,7 @@ sections:
         link: https://open.spotify.com/show/3KpBHmhPaOCbFwdTShKL4F
         techstack:
           icon: "fa-solid fa-podcast"
-          name: "Podcast: Psychologie, Wohlbefinden"
+          name: "Psychologie, Wohlbefinden"
         description: >-
           Ein Podcast über Psychologie und mentales Wohlbefinden, der Themen von
           Kognitionswissenschaft bis hin zu alltäglichem emotionalen Wohlbefinden behandelt.
