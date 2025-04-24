@@ -15,45 +15,43 @@ sidebar:
     - title: Fähigkeiten
       entry:
         - name: Kommunikation
-          rating: 5
+          value: Experte
         - name: Kreatives Schreiben
-          rating: 5
+          value: Experte
         - name: Redaktionelle Arbeit
-          rating: 5
+          value: Experte
         - name: Podcast-Produktion
-          rating: 4
+          value: Experte
         - name: Analytisches Denken
-          rating: 4
+          value: Fortgeschritten
         - name: Teamarbeit
-          rating: 4
+          value: Fortgeschritten
         - name: Projektpräsentation
-          rating: 4
+          value: Fundiert
         - name: Marketingentwicklung
-          rating: 4
+          value: Fundiert
         - name: Markenstrategie
-          rating: 4
-        - name: Fotografie
-          rating: 3
+          value: Fundiert
     - title: Tools
       entry:
         - name: Notion
-          rating: 4
+          value: Fortgeschritten
         - name: Audacity
-          rating: 4
+          valuue: Fortgeschritten
         - name: Python
-          rating: 3
+          value: Fundiert
         - name: Git
-          rating: 3
+          value: Fundiert
         - name: Docker
-          rating: 3
+          value: Fundiert
     - title: Betriebssysteme
       entry:
         - name: macOS
-          rating: 4
+          value: Fortgeschritten
         - name: Linux
-          rating: 4
+          value: Fortgeschritten
         - name: Windows
-          rating: 2
+          value: Fundiert
     - title: Sprachen
       entry:
         - name: Türkisch
@@ -87,7 +85,7 @@ sections:
       date: "Sep 2013 - Aug 2020"
       description: |-
         - Politikwissenschaft, politische Theorie, Internationale Beziehungen, Nationalismus
-        - Soziologie, Anthropologie, Macht und Ungleichheit, soziale Erinnerung
+        - Soziologie, Kulturanthropologie, Macht und Ungleichheit, soziale Erinnerung
         - Affekttheorie und emotionale Analyse von Texten
   jobs:
   - name: |-
